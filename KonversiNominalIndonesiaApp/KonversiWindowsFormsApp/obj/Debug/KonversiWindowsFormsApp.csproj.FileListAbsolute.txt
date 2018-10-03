@@ -1,0 +1,26 @@
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.csprojAssemblyReference.cache
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.Form1.resources
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.Properties.Resources.resources
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.csproj.GenerateResource.cache
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\bin\Debug\KonversiWindowsFormsApp.exe.config
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\bin\Debug\KonversiWindowsFormsApp.exe
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\bin\Debug\KonversiWindowsFormsApp.pdb
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\bin\Debug\KonversiClassLibrary.dll
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\bin\Debug\KonversiClassLibrary.pdb
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.csproj.CopyComplete
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.exe
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.pdb
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\bin\Debug\KonversiWindowsFormsApp.exe.config
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\bin\Debug\KonversiWindowsFormsApp.exe
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\bin\Debug\KonversiWindowsFormsApp.pdb
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\bin\Debug\KonversiClassLibrary.dll
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\bin\Debug\KonversiClassLibrary.pdb
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.Form1.resources
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.Properties.Resources.resources
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.csproj.CopyComplete
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.exe
+C:\Users\Adhi Christian\Documents\[Tugas] Kuliah\Pemprograman Lanjut\AssigntmentKonversiNominal\KonversiWindowsFormsApp\obj\Debug\KonversiWindowsFormsApp.pdb
